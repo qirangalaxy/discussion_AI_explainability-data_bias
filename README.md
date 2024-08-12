@@ -50,6 +50,7 @@ Personally speaking, I don't believe all biases can be removed but minimized sin
 1. most importantly, recognizing and admitting biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
 2. evaluate codes or works by different team members to see if any individual bias may exist;
 3. develop standardized guidlines on avoiding common biases;
+4. evaluate fairness metrics,
 
 
 ## Conclusion
