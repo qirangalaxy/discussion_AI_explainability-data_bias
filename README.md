@@ -54,7 +54,7 @@ Personally speaking, I don't believe all biases can be removed but minimized sin
 
 
 ## Conclusion
-As AI-driven services are emerging everywhere nowadays, providing a trustworthy AI with high explainability and minimized bias would be the key to differentiate your AI from others thus increase your comptetitive advantage as well as to improve your model's performance and accuracy. [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf) outlines its six trustworthy AI principles, indicating the importance of recognition and effort for using AI in banking industry. This is definitely a great example showing its copmetitive advantage from the aspects of social responsibility and transparency towards public.
+As AI-driven services are emerging everywhere nowadays, providing a trustworthy AI with high explainability and minimized bias would be the key to differentiate your AI from others thus increase your comptetitive advantage as well as to improve your model's performance, accuracy, and reliability. [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf) outlines its six trustworthy AI principles, indicating the importance of recognition and effort for using AI in banking industry. This is definitely a great example showing its copmetitive advantage from the aspects of social responsibility and transparency towards public.
 
 
 
