@@ -25,10 +25,11 @@ After percieving the decomposition of ML models, you can validate if the result 
 
 If you cannot clearly explain why you come to the decisions using non-technical words towards shareholders and customers, instead throwing out something like "decsions are made by machines, let's just trust the AI", then arguments about fairness from customers and questions from shareholders lead to invevitable losses.
 
-#### Risks of Non-compliance:
+### Risks of Non-compliance:
+- By-law, although there is no single global standard for AI transparency, there are some laws already exist, such as the General Data Protection Regulation in Europe, requiring copmanies explain to customers how AI made decisions on them; California Consumer Privacy Act also states customers have right to know inferences made about them by AI algorithms. Thus, non-copmlaince will lead to potential fines and litigation.
+- Untrustworthy AI may also ffect reputation damage, loss of trust, and competitive disadvantage.
 
-
-#### Thoughts on Overcome the Issue:
+### Thoughts on Overcome the Issue:
 Although it is tough to add explainability for models, there are several ways that increase explainability:
 1. fit interpretable models like linear models and decision trees instead of complex ones like deep neural networking; the output coefficient values indicate clearly the effect of each component;
 2. post-hoc explaination tools to see which feature is relatively more important, such as SHAP or LIME;
