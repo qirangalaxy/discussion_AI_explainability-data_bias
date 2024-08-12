@@ -3,13 +3,17 @@ According to a recent PwC technology survey, 73%[^1] of US companies have integr
 
 CIBC, recognized for having Canada’s #1 rated mobile banking app, is making significant strides in this arena. Starting this August, CIBC announced a 12-month strategic collaboration with Creative Destruction Lab's **_Putting AI to Work Program_**[^2]. This partnership aims to enhance client services and improve operational efficiencies through AI-driven innovations. Additionally, Christina Kramer, CIBC's Head of Technology and Innovation, shared with [Bloomberg News](https://www.bloomberg.com/news/articles/2024-08-06/cibc-plans-hiring-spree-in-artificial-intelligence-data-jobs) that the bank plans to hire over 200 professionals in data and AI over the next year. This move underscores CIBC’s commitment to advancing its capabilities through pilot programs that leverage generative AI.
 
-## AI Usage: Almost Too Good to Be True, But Worth Careful Considerations
+## AI Usage: Almost _TOO GOOD TO BE TRUE_, But Worth Careful Considerations
 As you may notice now how important AI is for companies not only CIBC as its powerful usage, two potential factors behind should catch up attention when considering utilization of data to build powerful and trustworthy systems. 
 
-### Explainable AI: Transparency Matters
+### 1. Making AI Explainable: Why Transparency Is Essential
 > McKinsey has found that by incorprating explainability in algorithmic models, companies are more likely to row their yearly revenue 10% or more[^3].
 
 > IBM shows users of its explainable AI platform realized a 15-30% improvement in model accuracy and $4.1-15.6 million more profit[^4].
+
+
+### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
+
 
 ## Conlusion
 
