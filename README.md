@@ -54,7 +54,7 @@ Personally speaking, I don't believe all biases can be removed but minimized sin
 
 
 ## Conclusion
-We should now know why building trustworthy AI is far more important than coding an AI itself. [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf) outlines its six trustworthy AI principles, indicating the importance of recognition and effort for using AI in banking industry. This is definitely a great example showing an organization's social responsibility and transparency towards public.
+As AI-driven services are emerging everywhere, providing a trustworthy AI with high explainability and minimized bias would be the key to differentiate your AI from others. [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf) outlines its six trustworthy AI principles, indicating the importance of recognition and effort for using AI in banking industry. This is definitely a great example showing its copmetitive advantage from the aspects of social responsibility and transparency towards public.
 
 
 
