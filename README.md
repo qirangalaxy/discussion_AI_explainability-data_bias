@@ -50,7 +50,7 @@ Personally speaking, I don't believe all biases can be removed but minimized sin
 1. most importantly, recognizing and admitting biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
 2. evaluate codes or works by different team members to see if any individual bias may exist;
 3. develop standardized guidlines on avoiding common biases;
-4. develop fairness-aware machine learning models through pre-, in-, and post-processing techniques, e.g FaRM (Fairness-aware Recommendation with Meta-learning) reduces bias for sensitive features of users or items even in cold-start states for recommendation systems; adding fairness regularizers/constraints, etc.
+4. develop fairness-aware machine learning models through pre-, in-, and post-processing techniques using packages like AI Fariness 360, fairlearn, etc.
 
 
 ## Conclusion
