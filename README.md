@@ -42,12 +42,9 @@ Data bias occurs when 'target values or feature values in a training data are bi
 - **Legal Penalties vs. Regulatory Safety**: Non-compliance can incur legal and regulatory penalties, but compliance helps avoid these risks and ensures adherence to laws.
 
 ### Thoughts on Mitigate Data Bias:
-Personally speaking, I don't believe all biases can be removed but minimized since defition of different biases is part subjective and part objective; there is no single version of definition of data bias. However, for sure, trying best to mitigate bias is always necessary:
-1. most importantly, recognizing and admitting biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
-2. evaluate codes or works by different team members to see if any individual bias may exist;
-3. develop standardized guidlines on avoiding common biases;
-4. develop fairness-aware machine learning models through pre-, in-, and post-processing techniques using packages like AI Fariness 360, fairlearn, etc.
-
+Personally speaking, I don't believe all biases can be removed but minimized since defition of a data bias is different from scholar to scholar; there is no single unified version of definition of data bias (i.e what factors can be considered as biased/sensitive factors). However, for sure, trying best to mitigate bias is always necessary:
+1. most importantly, regularly auditing and recognizing biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
+2. develop fairness-aware machine learning models through pre-, in-, and post-processing techniques using packages like AI Fariness 360, fairlearn, etc.
 
 ## Conclusion
 Documenting and clearly demonstrating to the public that your AI is transparent and trustworthy are also essential and beneficial. A great example is [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf), which outlines its six key principles that emphasize the bank's dedication to using AI responsibly in the banking industry. This commitment not only strengthens CIBC’s competitive edge but also demonstrates its leadership in social responsibility and transparency.
