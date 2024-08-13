@@ -41,10 +41,10 @@ Data bias occurs when 'target values or feature values in a training data are bi
 - **Inaccuracy vs. Reliability**: Non-compliance may result in inaccurate, unreliable, and ineffective model predictions, whereas compliance ensures more accurate and dependable outcomes.
 - **Legal Penalties vs. Regulatory Safety**: Non-compliance can incur legal and regulatory penalties, but compliance helps avoid these risks and ensures adherence to laws.
 
-### Thoughts on Mitigate Data Bias:
-Personally speaking, I don't believe all biases can be removed but minimized since defition of a data bias is different from scholar to scholar; there is no single unified version of definition of data bias (i.e what factors can be considered as biased/sensitive factors). However, for sure, trying best to mitigate bias is always necessary:
-1. most importantly, regularly auditing and recognizing biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
-2. develop fairness-aware machine learning models through pre-, in-, and post-processing techniques using packages like AI Fariness 360, fairlearn, etc.
+### Thoughts on Mitigating Data Bias:
+Personally speaking, I don't believe all biases can be removed but minimized since defition of a data bias is different from scholar to While it's challenging to completely eliminate all biases, they can certainly be minimized. The definition of data bias varies among scholars, and there's no single, unified version that specifies which factors should be considered biased or sensitive. However, it’s clear that mitigating bias is crucial:
+1. Regular Audits and Bias Recognition: The most important and difficult step is consistently auditing and identifying biases in the data. People often overlook or are reluctant to acknowledge biases, as doing so can complicate the process and potentially impact performance metrics. However, recognizing these biases is essential to ensure fairness and accuracy.
+2. Develop Fairness-Aware Models: Apply pre-, in-, and post-processing unfairness prevention techniques using packages like AI Fariness 360, fairlearn, etc.
 
 ## Conclusion
 Documenting and clearly demonstrating to the public that your AI is transparent and trustworthy are also essential and beneficial. A great example is [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf), which outlines its six key principles that emphasize the bank's dedication to using AI responsibly in the banking industry. This commitment not only strengthens CIBC’s competitive edge but also demonstrates its leadership in social responsibility and transparency.
