@@ -31,12 +31,12 @@ Enhancing model explainability can be challenging, but there are effective strat
 
 
 ### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
-ALthough sample selection bias and inductive bias are also important to be mitigated, personally speaking, elimination of data bias, which is implicitly shown and is hard to be detected, is relatively more challenging
+Although from the discussion by [Toshihiro](https://www.kamishima.net/archive/faml.pdf), sample selection bias and inductive bias are also important to be mitigated, personally speaking, elimination of data bias, which is implicitly shown and is hard to be detected, is relatively more challenging.
 
 ### Risks of Non-compliance:
 - raise public concerns and arguments regarding fairness, ethics, and effectiveness;
 - generate inaccurate, unreliable, and ineffective model predicitons;
-- lead to legal and regulatory penalties;
+- lead to legal and regulatory penalties, ;
 - reputation damage, etc.
 
 ### Thoughts on Mitigate Data Bias:
