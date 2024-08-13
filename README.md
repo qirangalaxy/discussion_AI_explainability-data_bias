@@ -25,9 +25,9 @@ The financial benefits highlighted above make it clear why incorporating explain
 
 ### Thoughts on Overcome the Issue:
 Enhancing model explainability can be challenging, but there are effective strategies to achieve it:
-1. **Use Interpretable Models**: Opt for interpretable models like linear regression or decision trees over complex models like deep neural networks. These simpler models provide clear insights, with output coefficients directly indicating the impact of each feature.
-2. **Apply Post-Hoc Explanation Tools**: Utilize tools like SHAP or LIME to analyze the relative importance of features, offering insights into how different factors influence the model’s decisions after the model has been trained.
-3. **Develop Interactive Tooling**: Create user interfaces that allow for exploration of model behaviors with varying inputs. Additionally, introduce dummy records to observe how the model reacts, helping to identify areas for improvement and increase transparency.
+1. <ins>Use Interpretable Models</ins>: Opt for interpretable models like linear regression or decision trees over complex models like deep neural networks. These simpler models provide clear insights, with output coefficients directly indicating the impact of each feature.
+2. <ins>Apply Post-Hoc Explanation Tools</ins>: Utilize tools like SHAP or LIME to analyze the relative importance of features, offering insights into how different factors influence the model’s decisions after the model has been trained.
+3. <ins>Develop Interactive Tooling</ins>: Create user interfaces that allow for exploration of model behaviors with varying inputs. Additionally, introduce dummy records to observe how the model reacts, helping to identify areas for improvement and increase transparency.
 
 
 ### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
@@ -43,8 +43,8 @@ Data bias occurs when 'target values or feature values in a training data are bi
 
 ### Thoughts on Mitigating Data Bias:
 Personally speaking, I don't believe all biases can be removed but minimized since defition of a data bias is different from scholar to While it's challenging to completely eliminate all biases, they can certainly be minimized. The definition of data bias varies among scholars, and there's no single, unified version that specifies which factors should be considered biased or sensitive. However, it’s clear that mitigating bias is crucial:
-1. Regular Audits and Bias Recognition: The most important and difficult step is consistently auditing and identifying biases in the data. People often overlook or are reluctant to acknowledge biases, as doing so can complicate the process and potentially impact performance metrics. However, recognizing these biases is essential to ensure fairness and accuracy.
-2. Develop Fairness-Aware Models: Apply pre-, in-, and post-processing unfairness prevention techniques using packages like AI Fariness 360, fairlearn, etc.
+1. <ins>Regular Audits and Bias Recognition</ins>: The most important and difficult step is consistently auditing and identifying biases in the data. People often overlook or are reluctant to acknowledge biases, as doing so can complicate the process and potentially impact performance metrics. However, recognizing these biases is essential to ensure fairness and accuracy.
+2. <ins>Develop Fairness-Aware Models</ins>: Apply pre-, in-, and post-processing unfairness prevention techniques using packages like AI Fariness 360, fairlearn, etc.
 
 ## Conclusion
 Documenting and clearly demonstrating to the public that your AI is transparent and trustworthy are also essential and beneficial. A great example is [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf), which outlines its six key principles that emphasize the bank's dedication to using AI responsibly in the banking industry. This commitment not only strengthens CIBC’s competitive edge but also demonstrates its leadership in social responsibility and transparency.
