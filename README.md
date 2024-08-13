@@ -42,7 +42,7 @@ Data bias occurs when 'target values or feature values in a training data are bi
 - **Legal Penalties vs. Regulatory Safety**: Non-compliance can incur legal and regulatory penalties, but compliance helps avoid these risks and ensures adherence to laws.
 
 ### Thoughts on Mitigating Data Bias:
-Personally speaking, I don't believe all biases can be removed but minimized since defition of a data bias is different from scholar to While it's challenging to completely eliminate all biases, they can certainly be minimized. The definition of data bias varies among scholars, and there's no single, unified version that specifies which factors should be considered biased or sensitive. However, it’s clear that mitigating bias is crucial:
+While it's challenging to completely eliminate all biases, they can certainly be minimized. The definition of data bias varies among scholars, and there's no single, unified version that specifies which factors should be considered biased or sensitive. However, it’s clear that mitigating bias is crucial:
 1. <ins>Regular Audits and Bias Recognition</ins>: The most important and difficult step is consistently auditing and identifying biases in the data. People often overlook or are reluctant to acknowledge biases, as doing so can complicate the process and potentially impact performance metrics. However, recognizing these biases is essential to ensure fairness and accuracy.
 2. <ins>Develop Fairness-Aware Models</ins>: Apply pre-, in-, and post-processing unfairness prevention techniques using packages like AI Fariness 360, fairlearn, etc.
 
