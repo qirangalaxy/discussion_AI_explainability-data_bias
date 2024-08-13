@@ -24,10 +24,10 @@ The financial benefits highlighted above make it clear why incorporating explain
 - **Reputation and Trust**: An AI system perceived as untrustworthy can lead to severe reputational damage, loss of customer trust, and a competitive disadvantage. Companies that cannot clearly explain their AI’s decisions may find it increasingly difficult to maintain stakeholder confidence and market position.
 
 ### Thoughts on Overcome the Issue:
-Although it is tough to add explainability for models, there are several ways that increase explainability:
-1. fit interpretable models like linear models and decision trees instead of complex ones like deep neural networking; the output coefficient values indicate clearly the effect of each component;
-2. post-hoc explaination tools to see which feature is relatively more important, such as SHAP or LIME;
-3. design tooling UI to explore model behaviours with different inputs as well as add dummy records to observe how the model responds.
+Enhancing model explainability can be challenging, but there are effective strategies to achieve it:
+1. **Use Interpretable Models**: Opt for interpretable models like linear regression or decision trees over complex models like deep neural networks. These simpler models provide clear insights, with output coefficients directly indicating the impact of each feature.
+2. **Apply Post-Hoc Explanation Tools**: Utilize tools like SHAP or LIME to analyze the relative importance of features, offering insights into how different factors influence the model’s decisions after the model has been trained.
+3. **Develop Interactive Tooling**: Create user interfaces that allow for exploration of model behaviors with varying inputs. Additionally, introduce dummy records to observe how the model reacts, helping to identify areas for improvement and increase transparency.
 
 
 ### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
