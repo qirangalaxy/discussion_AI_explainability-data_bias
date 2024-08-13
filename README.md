@@ -31,7 +31,7 @@ Enhancing model explainability can be challenging, but there are effective strat
 
 
 ### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
-
+ALthough sample selection bias and inductive bias are also important to be mitigated, personally speaking, elimination of data bias, which is implicitly shown and is hard to be detected, is relatively more challenging
 
 ### Risks of Non-compliance:
 - raise public concerns and arguments regarding fairness, ethics, and effectiveness;
@@ -39,7 +39,7 @@ Enhancing model explainability can be challenging, but there are effective strat
 - lead to legal and regulatory penalties;
 - reputation damage, etc.
 
-### Thoughts on Mitigate Bias:
+### Thoughts on Mitigate Data Bias:
 Personally speaking, I don't believe all biases can be removed but minimized since defition of different biases is part subjective and part objective; there is no single version of definition of data bias. However, for sure, trying best to mitigate bias is always necessary:
 1. most importantly, recognizing and admitting biases is always the first but hardest step; naturally, people are more likely to overlook and reluctant to admit it so that the outcome performance metrics look prettier and no complex further steps need to be taken;
 2. evaluate codes or works by different team members to see if any individual bias may exist;
@@ -48,8 +48,7 @@ Personally speaking, I don't believe all biases can be removed but minimized sin
 
 
 ## Conclusion
-As AI-driven services are emerging everywhere nowadays, providing a trustworthy AI with high explainability and minimized bias would be the key to differentiate your AI from others thus increase your comptetitive advantage as well as to improve your model's performance, accuracy, and reliability. [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf) outlines its six trustworthy AI principles, indicating the importance of recognition and effort for using AI in banking industry. This is definitely a great example showing its copmetitive advantage from the aspects of social responsibility and transparency towards public.
-
+Documenting and clearly demonstrating to the public that your AI is transparent and trustworthy are also essential and beneficial. A great example is [CIBC's Trustworthy AI Commitment](https://www.cibc.com/content/dam/about_cibc/corporate_responsibility/pdfs/trustworthy-ai-guidelines-en.pdf), which outlines its six key principles that emphasize the bank's dedication to using AI responsibly in the banking industry. This commitment not only strengthens CIBC’s competitive edge but also demonstrates its leadership in social responsibility and transparency.
 
 
 
