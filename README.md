@@ -13,17 +13,11 @@ As AI continues to revolutionize industries, including at CIBC, its powerful pot
 
 The financial benefits highlighted above make it clear why incorporating explainability into your models is essential. But you might be wondering why explainability has such a significant impact. Let’s explore what’s happening behind the scenes.
 
-- **Unraveling Black Box of Complex Machine Learning Models**:
+- **Unraveling Black Box of Complex Machine Learning Models**: <br>In pratice, AI models often operate as black boxes, where decisions, recommendations, or predictions are made without a clear view of the step-by-step process. Explainability provides the key to unlocking this black box, offering insights into where improvements can be made, where issues need to be fixed, and how to communicate the model’s processes to non-technical audiences in a clear and understandable way.
 
-In pratice, AI models often operate as black boxes, where decisions, recommendations, or predictions are made without a clear view of the step-by-step process. Explainability provides the key to unlocking this black box, offering insights into where improvements can be made, where issues need to be fixed, and how to communicate the model’s processes to non-technical audiences in a clear and understandable way.
+- **Validating of Decision Making Through Human Oversight**: <br>By understanding the inner workings of complex ML models, you can assess whether the outcomes they produce are reliable. For example, if a model predicts that a person with zero income, living in a low-income neighborhood, and with a low credit score qualifies for a loan, this raises red flags from a financial standpoint. Such scenarios indicate that something may be wrong with the model, prompting necessary adjustments. Addressing these issues through human oversight leads to higher accuracy and improved performance.
 
-- **Validating of Decision Making Through Human Oversight**:
-
-By understanding the inner workings of complex ML models, you can assess whether the outcomes they produce are reliable. For example, if a model predicts that a person with zero income, living in a low-income neighborhood, and with a low credit score qualifies for a loan, this raises red flags from a financial standpoint. Such scenarios indicate that something may be wrong with the model, prompting necessary adjustments. Addressing these issues through human oversight leads to higher accuracy and improved performance.
-
-- **Building Trust with Shareholders and Customers**:
-
-Being able to clearly explain how decisions are made, using straightforward language, is crucial for building trust with stakeholders and customers. If you simply defer to the notion that "decisions are made by machines" without offering clear explanations, you risk eroding confidence, raising concerns about fairness, and facing questions that can lead to significant losses. Transparent communication fosters trust and strengthens relationships with both shareholders and customers.
+- **Building Trust with Shareholders and Customers**: <br>Being able to clearly explain how decisions are made, using straightforward language, is crucial for building trust with stakeholders and customers. If you simply defer to the notion that "decisions are made by machines" without offering clear explanations, you risk eroding confidence, raising concerns about fairness, and facing questions that can lead to significant losses. Transparent communication fosters trust and strengthens relationships with both shareholders and customers.
 
 ### Risks of Non-compliance:
 - **Legal Repercussions**: While there isn’t a single global standard for AI transparency, regulations like the General Data Protection Regulation (GDPR) in Europe and the California Consumer Privacy Act (CCPA) are already in place. These laws require companies to explain how AI makes decisions about customers, and failure to comply can result in significant fines and legal actions.
