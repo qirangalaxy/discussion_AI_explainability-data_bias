@@ -31,13 +31,15 @@ Enhancing model explainability can be challenging, but there are effective strat
 
 
 ### 2. Recognizing and Minimizing Data Bias: The Ethical Imperative
-Although from the discussion by [Toshihiro](https://www.kamishima.net/archive/faml.pdf), sample selection bias and inductive bias are also important to be mitigated, personally speaking, elimination of data bias, which is implicitly shown and is hard to be detected, is relatively more challenging.
+While [Toshihiro](https://www.kamishima.net/archive/faml.pdf) emphasizes the importance of addressing sample selection bias and inductive bias, personally speaking, eliminating data bias is particularly challenging. Data bias is often implicitly present, deeply embedded, difficult to detect, and requires careful adjustment. Addressing this type of bias is crucial for ensuring fairness and ethical AI practices.
 
-### Risks of Non-compliance:
-- raise public concerns and arguments regarding fairness, ethics, and effectiveness;
-- generate inaccurate, unreliable, and ineffective model predicitons;
-- lead to legal and regulatory penalties, ;
-- reputation damage, etc.
+### How Does Data Bias Arise?
+Data bias occurs when 'target values or feature values in a training data are biased due to annotator's cognitive bias or inappropriate observation schemes' as explained by Toshihiro. For instance, consider a loan approval scenario. A machine learning model that determines whether a person is qualified for a loan is trained on historical data. This data, originating from human decisions, inevitably contains subjective biases or potential discrimination, which can be transferred to the model.
+
+### Risks of Non-Compliance (and Benefits of Compliance):
+- **Public Backlash vs. Public Trust**: Non-compliance can lead to public concerns and arguments about fairness, ethics, and effectiveness, while compliance fosters trust, credibility, and enterprise image.
+- **Inaccuracy vs. Reliability**: Non-compliance may result in inaccurate, unreliable, and ineffective model predictions, whereas compliance ensures more accurate and dependable outcomes.
+- **Legal Penalties vs. Regulatory Safety**: Non-compliance can incur legal and regulatory penalties, but compliance helps avoid these risks and ensures adherence to laws.
 
 ### Thoughts on Mitigate Data Bias:
 Personally speaking, I don't believe all biases can be removed but minimized since defition of different biases is part subjective and part objective; there is no single version of definition of data bias. However, for sure, trying best to mitigate bias is always necessary:
